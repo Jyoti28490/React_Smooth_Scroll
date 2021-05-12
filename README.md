@@ -4,7 +4,7 @@ Hey there 👋
 
 # React_Smooth_Scroll
 
-:stars::stars: This website is built using Smooth Scroll
+:stars::stars: This website is built using Smooth Scroll 🔥🔥🔥🔥
 
 <img src="https://media.giphy.com/media/qg3lKp818nVjpXp1Ta/giphy.gif" width="400" >
 
